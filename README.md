@@ -44,3 +44,9 @@ I engineer digital solutions that connect people, ideas, and systems. My focus i
 
 ### Credits
 * Layout inspired by [calebephrem](https://github.com/calebephrem)
+
+---
+
+### Views
+
+<img src="https://komarev.com/ghpvc/?username=Iccrtlity&color=ff8a1f&style=for-the-badge&label=VIEWS">
