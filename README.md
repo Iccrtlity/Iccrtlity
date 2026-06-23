@@ -40,12 +40,12 @@ I engineer digital solutions that connect people, ideas, and systems. My focus i
   </picture>
 </div>
 
----
+![break-line](./break-line.svg)
 
 ### Credits
 * Layout inspired by [calebephrem](https://github.com/calebephrem)
 
----
+![break-line](./break-line.svg)
 
 ### Views
 
