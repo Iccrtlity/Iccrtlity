@@ -27,7 +27,7 @@ I engineer digital solutions that connect people, ideas, and systems. My focus i
 
 ### Contact
 
-- **Email** → [contact@spacekeep.dev](mailto:j@spacekeep.dev)  
+- **Email** → [j@spacekeep.dev](mailto:j@spacekeep.dev)  
 - **Discord DM** → [@outfluencer](https://discord.com/users/1408224231485083708)  
 - **GitHub Org** → [SpaceKeep](https://github.com/spacekeep)  
 
